@@ -1,2 +1,21 @@
-# supervised-learning-algorithms-dashboard
-Supervised Learning Algorithms Dashboard is a Machine Learning project using Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes, and XGBoost algorithms on a Kaggle shipment dataset to predict shipment delivery status through an interactive Streamlit dashboard.
+
+# Supervised Learning Algorithms Dashboard
+
+This project implements multiple supervised learning algorithms:
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- SVM
+- KNN
+- Naive Bayes
+- XGBoost
+
+Dataset:
+Shipment Delivery Prediction Dataset
+
+Built using:
+- Python
+- Streamlit
+- Scikit-learn
+- XGBoost
